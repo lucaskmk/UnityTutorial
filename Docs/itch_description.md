@@ -24,8 +24,8 @@ Você dirige um carro vermelho por uma cidade cheia de viaturas. O tanque esvazi
 
 ## Créditos
 
-Desenvolvido por **(SEU NOME COMPLETO)** para a disciplina de Jogos Digitais do Insper, a partir do tutorial "Introdução Rápida".
+Desenvolvido por **lucas kamikawa** para a disciplina de Jogos Digitais do Insper, a partir do tutorial "Introdução Rápida".
 
-Código-fonte: **(LINK DO GITHUB)**
+Código-fonte: https://github.com/lucaskmk/UnityTutorial
 
 Sprites, músicas e efeitos sonoros gerados proceduralmente para este projeto. Feito com Unity 6.

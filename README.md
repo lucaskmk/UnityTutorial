@@ -4,8 +4,8 @@ Jogo 2D top-down feito a partir do tutorial **"Introdução Rápida"** da discip
 Você dirige um carro vermelho pela cidade e precisa coletar galões de gasolina antes que o tanque esvazie, enquanto a polícia corre atrás de você.
 
 - **Unity:** 6000.6.4f1 (Universal 2D / URP)
-- **Itch.io:** _(adicionar link)_
-- **Autor:** _(seu nome completo)_
+- **Itch.io:** https://lkenji-016.itch.io/tanque-cheio
+- **Autor:** Lucas Kamikawa
 
 ## Como jogar
 
